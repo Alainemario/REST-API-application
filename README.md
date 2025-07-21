@@ -20,7 +20,7 @@ A simple RESTful Weather API built with Spring Boot that fetches real-time weath
 - Spring Web
 - Thymeleaf (optional HTML output)
 - Maven
-
+"C:\Users\alain\OneDrive\Pictures\Screenshots\Screenshot 2025-07-19 181922.png"
 ---
 
 ## 🔧 Setup & Run
