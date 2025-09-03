@@ -1,6 +1,3 @@
-Company: CodeTech IT solutions Name: Alaine mario A Domain: Java Programming Intern ID: CT04DG3237 Duration: 4 Weeks Mentor: Neela Santhosh Kumar
-
-
 # 🌦️ Spring Boot Weather REST API
 
 A simple RESTful Weather API built with Spring Boot that fetches real-time weather information using OpenWeatherMap API. The application demonstrates clean separation of layers, HTTP client integration, and a basic Thymeleaf HTML page to display results.
