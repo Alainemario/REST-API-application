@@ -10,7 +10,7 @@ import java.util.Map;
 @Service
 public class WeatherService {
 	public Map<String, Object> getWeather(String city) {
-		String apiKey = "d354c7fe67242f85bce91571026cbf86";
+		String apiKey = "Your API key";
 		String url = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + apiKey + "&units=metric";
 
 		RestTemplate restTemplate = new RestTemplate();
